@@ -7,7 +7,7 @@
   </information>
   <resources>
     <j2se version="1.6+" />
-    <jar href="lib/regenemies-0.0.0-SNAPSHOT-standalone.jar"/>
+    <jar href="regenemies-0.0.0-SNAPSHOT-standalone.jar"/>
   </resources>
 
   <application-desc main-class="regenemies.main"/>
