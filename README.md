@@ -3,6 +3,8 @@
 A very simple game, implemented in Clojure. Given a random regex, you have to
 give a string that matches it before time runs out.
 
+Playable at http://darevay.com/regenemies
+
 ## Usage
 
     $ lein deps
