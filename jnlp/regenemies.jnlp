@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp codebase="http://localhost:8000/jnlp"
+      href="regenemies.jnlp">
+        <information>
+    <title>regenemies</title>
+    <vendor>Dave Ray</vendor>
+  </information>
+  <resources>
+    <j2se version="1.6+" />
+    <jar href="lib/regenemies-0.0.0-SNAPSHOT-standalone.jar"/>
+  </resources>
+
+  <application-desc main-class="regenemies.main"/>
+
+  <offline-allowed/>
+  <security>
+    <all-permissions/>
+  </security>
+</jnlp>
